@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<!-- saved from url=(0027)http://apply.felixihub.com/ -->
+
 <html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
 	
@@ -9,7 +9,6 @@
 	<meta name="description" content="African development through partnership">
 
 
-	<!-- Open Graph data -->
 	<meta property="og:title" content="Submission for Felix - Favcode ">
 	<meta property="og:type" content="article">
 	<meta property="og:image" content="Felix%20-%20Favcoder_files/art.png">
@@ -31,9 +30,7 @@
 </head>
 <body cz-shortcut-listen="true">
 	<div class="container">
-		<header>
-			<Job application as a Favcoder>
-		</header>
+		<header>Job application as a Favcoder</header>
 
 		<section class="main">
 			<div class="get-started">
@@ -60,4 +57,5 @@
 	</div>
 
 
-</body></html>
+</body>
+</html>
